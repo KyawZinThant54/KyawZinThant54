@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyaw Zin Thant</h1>
 
 
-- 🌱 I’m currently learning **Python and web development**
+- 🌱 I’m currently learning **javascript and cybersecurity**
 
 - 📫 How to reach me **kyawthant035@gmail.com**
 
